@@ -7,7 +7,7 @@ My journey involves delving into the world of computer science, exploring new id
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical" alt="GitHub Streak" style="width:300px;height:300px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical" alt="GitHub Streak" style="width:400px;height:400px;">
 </div>
 
 <div align="center">
