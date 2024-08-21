@@ -12,10 +12,10 @@ My journey involves delving into the world of computer science, exploring new id
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical" alt="GitHub Streak" style="width:300px;height:200px;">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Camper94&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="<username>'s Stats" style="width:300px;height:50px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Camper94&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="<username>'s Stats" style="width:300px;height:200px;">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical" alt="Top Languages" style="width:300px;height:50px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical" alt="Top Languages" style="width:300px;height:200px;">
 
 </div>
 
