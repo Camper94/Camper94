@@ -4,8 +4,6 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Camper94&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Profile views](https://komarev.com/ghpvc/?username=Camper94)
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical)
