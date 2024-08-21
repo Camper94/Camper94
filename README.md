@@ -10,7 +10,7 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,sql,react,django,postgres,docker,aws&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,linux,bash,react,django,postgres,docker,aws&perline=5)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
