@@ -10,7 +10,7 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 - 📝 I've found that I really enjoy writing blog series about the projects I'm working on.
 - 🔭 I’m currently working on online banking application.
 - 🌱 I’m currently learning technologies related to software developement,data analysis and data engineering.
-- 👯 I’m looking to collaborate on developement/data analysis project.
+- 👯 I’m looking to collaborate on developement & data analysis projects.
 - ⚡ Fun fact: Why do programmers prefer dark mode? Because the light attracts bugs!
 
 
