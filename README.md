@@ -7,12 +7,12 @@ My journey involves delving into the world of computer science, exploring new id
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical" alt="GitHub Streak" style="width:800px;height:100px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical" alt="GitHub Streak" style="width:800px;height:200px;">
 </div>
 
 <div align="center">
  <!-- Top Languages -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical" alt="GitHub Streak" style="width:800px;height:100px;"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical" alt="GitHub Streak" style="width:800px;height:200px;"> 
 
 ## 🚀 About Me
 </div>
