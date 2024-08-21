@@ -12,6 +12,7 @@ My journey involves delving into the world of computer science, exploring new id
 
 ## 🚀 About Me
 </div>
+
 - 🔭 I am interested in everything related to Software Development and Data Science.
 - 📝 I've found that I really enjoy writing blog series about the projects I'm working on.
 - 🔭 I’m currently working on an online banking application.
