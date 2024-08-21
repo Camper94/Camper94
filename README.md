@@ -7,7 +7,7 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 ## 🚀 About Me
 
 - 🔭 I'am intrested in everything related to Software Developement and Data Science.
-- 📝 I've found that I really enjoy writing blog series about the projects I'm working on. You can check them out at this link: [technicalpost.hashnode.dev](https://technicalpost.hashnode.dev).
+- 📝 I've found that I really enjoy writing blog series about the projects I'm working on.
 - 🔭 I’m currently working on online banking application.
 - 🌱 I’m currently learning technologies related to software developement,data analysis and data engineering.
 - 👯 I’m looking to collaborate on developement/data analysis project.
