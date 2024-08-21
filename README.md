@@ -13,15 +13,16 @@ My journey involves delving into the world of computer science, exploring new id
 
 ## 🚀 About Me
 </div>
+<div align="left">
 - 🔭 I'am intrested in everything related to Software Developement and Data Science.
 - 📝 I've found that I really enjoy writing blog series about the projects I'm working on.
 - 🔭 I’m currently working on online banking application.
 - 🌱 I’m currently learning technologies related to software developement,data analysis and data engineering.
 - 👯 I’m looking to collaborate on developement & data analysis projects.
 - ⚡ Fun fact: Why do programmers prefer dark mode? Because the light attracts bugs!
-
+</div>
 <div align="center">
-##Tech Stack
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,bash,react,django,postgres,docker,aws&perline=4)](https://skillicons.dev)
 
