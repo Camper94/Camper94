@@ -6,7 +6,7 @@ My journey involves delving into the world of computer science, exploring new id
 <div align="center">
 
   <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94" alt="Visitors" style="width:200px;height:50px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94" alt="Visitors" style="width:100px;height:50px;">
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical" alt="GitHub Streak" style="width:300px;height:200px;">
