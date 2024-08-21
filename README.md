@@ -26,7 +26,7 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://x.com/Sofiane91310826)
+- Connect with me on [x](https://x.com/Sofiane91310826)
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
