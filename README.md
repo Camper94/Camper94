@@ -1,8 +1,8 @@
 # <div align="center">Hi, I'm Sofiane! 👋</div>
-
+<div align="center">
 I am a passionate Software Developer, driven by a curiosity for technology and a love for writing. 
 My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
+</div>
 <div align="center">
   
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94)
