@@ -3,7 +3,7 @@
 I am a passionate Software Developer, driven by a curiosity for technology and a love for writing. 
 My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 </div>
-
+</div>
 <div align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical" alt="GitHub Streak" style="width:300px;height:200px;">
