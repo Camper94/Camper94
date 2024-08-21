@@ -2,10 +2,6 @@
 <div align="center">
 I am a passionate Software Developer, driven by a curiosity for technology and a love for writing. 
 My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-  
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94" alt="Visitors" style="width:100px;height:50px;">
-</div>
 </div>
 
 <div align="center">
