@@ -11,7 +11,7 @@ My journey involves delving into the world of computer science, exploring new id
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical" alt="Top Languages" style="width:200px;height:200px;">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Camper94&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="<username>'s Stats" style="width:300px;height:200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Camper94&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="<username>'s Stats" style="width:200px;height:200px;">
 
   <!-- Visitor Badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94" alt="Visitors" style="width:100px;height:50px;">
