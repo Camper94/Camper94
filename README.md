@@ -1,14 +1,11 @@
 # Hi, I'm Sofiane! 👋
 
-I am a passionate Software Developer, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Camper94&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical)
+I am a passionate Software Developer, driven by a curiosity for technology and a love for writing. 
+My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Camper94&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical)
 
 ## 🚀 About Me
 
