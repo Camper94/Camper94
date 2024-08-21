@@ -1,12 +1,16 @@
 # <div align="center">Hi, I'm Sofiane! 👋</div>
+
 <div align="center">
 I am a passionate Software Developer, driven by a curiosity for technology and a love for writing. 
 My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 </div>
+
 <div align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical" alt="GitHub Streak" style="width:300px;height:300px;">
+</div>
 
+<div align="center">
  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical" alt="Top Languages" style="width:210px;height:300px;">
 
