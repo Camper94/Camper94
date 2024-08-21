@@ -4,6 +4,8 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Camper94&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![Profile views](https://komarev.com/ghpvc/?username=Camper94)
+
 ## 🚀 About Me
 
 - 🔭 I'am intrested in everything related to Software Developement and Data Science.
