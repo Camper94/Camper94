@@ -8,6 +8,7 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical)
 
 ## 🚀 About Me
 
