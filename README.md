@@ -1,3 +1,4 @@
+<div align="center">
 # Hi, I'm Sofiane! 👋
 
 I am a passionate Software Developer, driven by a curiosity for technology and a love for writing. 
@@ -41,7 +42,5 @@ My journey involves delving into the world of computer science, exploring new id
 - Or [LinkedIn](https://www.linkedin.com/in/sofiane-k-5991mass/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
 <!--
+</div>
