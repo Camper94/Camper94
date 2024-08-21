@@ -12,7 +12,7 @@ My journey involves delving into the world of computer science, exploring new id
 
 <div align="center">
  <!-- Top Languages -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical" alt="GitHub Streak" style="width:400px;height:400px;"> 
 
 ## 🚀 About Me
 </div>
