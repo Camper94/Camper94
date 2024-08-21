@@ -15,7 +15,6 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
