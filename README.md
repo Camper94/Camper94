@@ -5,7 +5,9 @@ My journey involves delving into the world of computer science, exploring new id
 </div>
 <div align="center">
   
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94" alt="Visitors" style="width:150px;height:30px;">
+</div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical)
 
