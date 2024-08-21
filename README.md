@@ -3,7 +3,6 @@
 I am a passionate Software Developer, driven by a curiosity for technology and a love for writing. 
 My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 </div>
-</div>
 <div align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical" alt="GitHub Streak" style="width:300px;height:200px;">
@@ -12,7 +11,7 @@ My journey involves delving into the world of computer science, exploring new id
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical" alt="Top Languages" style="width:210px;height:200px;">
 
 ## 🚀 About Me
-
+</div>
 - 🔭 I am interested in everything related to Software Development and Data Science.
 - 📝 I've found that I really enjoy writing blog series about the projects I'm working on.
 - 🔭 I’m currently working on an online banking application.
