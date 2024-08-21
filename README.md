@@ -32,7 +32,8 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 
 ## 📬 Get in Touch
 
-- Connect with me on [x](https://x.com/Sofiane91310826)
+- Connect with me on [X](https://x.com/Sofiane91310826)
+- Or [LinkedIn](https://www.linkedin.com/in/sofiane-k-5991mass/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
