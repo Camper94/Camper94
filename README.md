@@ -4,10 +4,6 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 </div>
 <div align="center">
-
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94" alt="Visitors" style="width:100px;height:50px;">
-
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camper94&theme=radical" alt="GitHub Streak" style="width:300px;height:200px;">
 
@@ -16,7 +12,8 @@ My journey involves delving into the world of computer science, exploring new id
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camper94&layout=compact&theme=radical" alt="Top Languages" style="width:300px;height:200px;">
-
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Camper94.Camper94" alt="Visitors" style="width:100px;height:50px;">
 </div>
 
 ## 🚀 About Me
