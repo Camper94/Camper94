@@ -26,7 +26,7 @@ My journey involves delving into the world of computer science, exploring new id
 
 <div align="center">
   
-## Tech Stack
+## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,linux,git,bash,react,django,postgres,docker,aws&perline=4)](https://skillicons.dev)
 
