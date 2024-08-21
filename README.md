@@ -8,6 +8,10 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 
 - 🔭 I'am intrested in everything related to Software Developement and Data Science.
 - 📝 I've found that I really enjoy writing blog series about the projects I'm working on. You can check them out at this link: [technicalpost.hashnode.dev](https://technicalpost.hashnode.dev).
+- 🔭 I’m currently working on online banking application.
+- 🌱 I’m currently learning technologies related to software developement,data analysis and data engineering.
+- 👯 I’m looking to collaborate on developement/data analysis project.
+- ⚡ Fun fact: Why do programmers prefer dark mode? Because the light attracts bugs!
 
 
 ## Tech Stack
@@ -22,28 +26,16 @@ I am a passionate Software Developer, driven by a curiosity for technology and a
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 processing... 
+- 🌟 coming soon...
 
 
 ## 📬 Get in Touch
 
 - Connect with me on [x](https://x.com/Sofiane91310826)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
 
 <!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
