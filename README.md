@@ -35,7 +35,6 @@ My journey involves delving into the world of computer science, exploring new id
 </div>
 
 - 🚀 Learning Full Stack Web Development
-  - Navigating through the world of React Router for seamless page transitions.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
