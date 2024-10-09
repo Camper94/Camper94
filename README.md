@@ -21,7 +21,7 @@ My journey involves delving into the world of computer science, exploring new id
 - 📝 I've found that I really enjoy writing blog series about the projects I'm working on.
 - 🔭 I’m currently working on an online banking application.
 - 🌱 I’m currently learning technologies related to software development, data analysis, and data engineering.
-- 👯 I’m looking to collaborate on development & data analysis projects.
+- 👯 I’m looking to collaborate on development & data projects.
 - ⚡ Fun fact: Why do programmers prefer dark mode? Because the light attracts bugs!
 
 <div align="center">
